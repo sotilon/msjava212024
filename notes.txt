@@ -1,0 +1,4 @@
+install docker mac
+$ brew uninstall --cask docker --force
+$ brew uninstall --formula docker --force
+$ brew install --cask docker
